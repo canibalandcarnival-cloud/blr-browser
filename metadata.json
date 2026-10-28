@@ -1,0 +1,6 @@
+{
+  "name": "Flow",
+  "description": "A fluid modern browser with frosted glass aesthetics, smooth animations, customizable favorites, reading list, and dark and light modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
